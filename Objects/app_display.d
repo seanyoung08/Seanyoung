@@ -1,0 +1,9 @@
+.\objects\app_display.o: App\App_Display.c
+.\objects\app_display.o: App\App_Display.h
+.\objects\app_display.o: .\Inf\Driver_LCD.h
+.\objects\app_display.o: .\Driver\Driver_LCD_FSMC.h
+.\objects\app_display.o: .\Start\stm32f10x.h
+.\objects\app_display.o: .\Start\core_cm3.h
+.\objects\app_display.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\app_display.o: .\Start\system_stm32f10x.h
+.\objects\app_display.o: .\User\Delay.h
